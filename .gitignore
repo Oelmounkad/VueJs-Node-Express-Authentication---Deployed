@@ -1,4 +1,1 @@
-node_modules
-/client/node_modules
-vue.config.js
-public
+client/vue.config.js
