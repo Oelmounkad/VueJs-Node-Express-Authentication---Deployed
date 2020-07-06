@@ -1,0 +1,4 @@
+node_modules
+/client/node_modules
+vue.config.js
+public
