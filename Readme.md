@@ -1,7 +1,7 @@
 # VueJs Authentication
 
 
-**vuejs-authentication** is an application that you can use as a boiler plate for your future application using the MEVN stack (MongoDB - ExpressJs - VueJs - NodeJs) and Passport.js the authentication middleware for Node.js.
+**vuejs-authentication** is an application that you can use as a boiler plate for your future application using the MEVN stack (MongoDB - ExpressJs - VueJs - NodeJs) and Passport.js (using the local Strategy in this project)the authentication middleware for Node.js.
 
 # How to serve the app:
 ## The ExpressJs backend api:
