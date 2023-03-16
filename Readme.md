@@ -32,8 +32,3 @@ npm run serve
 module.exports = {
 MongoURI : 'mongodb+srv://<user_name>:<password>@<cluster>/<database>?retryWrites=true&w=majority'
 }
-```
-### Application link :
-
-### https://fast-caverns-94005.herokuapp.com/
-
